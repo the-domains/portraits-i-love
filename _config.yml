@@ -1,8 +1,5 @@
-layout_spectrum: 0.1726493
-typography_spectrum: 0.7601145
 color:
   saturation: 0.9613916
-  lightness: 0.1310908
   brandStrength: 0.487252
   rhythmicContrast: 0.1757573
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  lightness: 0.1310908
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.1726493
+typography_spectrum: 0.7601145
 name: Portraits I Love
