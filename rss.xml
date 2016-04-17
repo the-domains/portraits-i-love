@@ -4,8 +4,15 @@
         <description><![CDATA[Portraits I Love]]></description>
         <link>https://thegrid.ai/portraits-i-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 16:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 16:50:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/portraits-i-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Profile]]></title>
+            <description><![CDATA[<article><h1>Profile</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3075e4df-1332-4207-b236-39f56197d269.png"></article>]]></description>
+            <link>https://thegrid.ai/portraits-i-love/profile/index.html</link>
+            <guid isPermaLink="false">f1b880c5-e4b4-4517-b7aa-82fd42b8c1ff</guid>
+            <pubDate>Sun, 17 Apr 2016 16:50:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elegant]]></title>
             <description><![CDATA[<article><h1>Elegant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/764e9ece575bce928708277d6f97d3215271a784.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Candle's Glow]]></title>
-            <description><![CDATA[<article><h1>Candle's Glow</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b50a757-3980-4e7f-8a65-481c0d600a5a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Candle's Glow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f32022790cfa55c8527c8d8e07eb90edf942c1.png"></article>]]></description>
             <link>https://thegrid.ai/portraits-i-love/candles-glow/index.html</link>
             <guid isPermaLink="false">138223dd-eb33-45d8-ab74-c110bcf7af40</guid>
             <pubDate>Sun, 17 Apr 2016 16:47:44 GMT</pubDate>
