@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.7601145
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0.487252
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#C4C7CF'
     - '#212021'
     - '#A4ABB3'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 layout_spectrum: 0.1726493
 name: Portraits I Love
