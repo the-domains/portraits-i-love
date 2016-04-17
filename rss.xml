@@ -4,8 +4,22 @@
         <description><![CDATA[Portraits I Love]]></description>
         <link>https://thegrid.ai/portraits-i-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 16:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 16:52:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/portraits-i-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smile]]></title>
+            <description><![CDATA[<article><h1>Smile</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35401e6d-4397-4caf-b19f-8f8ac606e6e6.png"></article>]]></description>
+            <link>https://thegrid.ai/portraits-i-love/smile/index.html</link>
+            <guid isPermaLink="false">fc720482-ee83-46c5-a799-b4f664e96235</guid>
+            <pubDate>Sun, 17 Apr 2016 16:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lindsey]]></title>
+            <description><![CDATA[<article><h1>Lindsey</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20e92a99-d403-4a7e-9ff2-1e94077c9c07.png"></article>]]></description>
+            <link>https://thegrid.ai/portraits-i-love/lindsey/index.html</link>
+            <guid isPermaLink="false">0043c057-a4c6-4894-b3c9-a5a1378a94dd</guid>
+            <pubDate>Sun, 17 Apr 2016 16:51:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In the Wind]]></title>
             <description><![CDATA[<article><h1>In the Wind</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24a16168-a7a1-4710-8b09-2f8d78c9bcf8.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/portraits-i-love/elegant/index.html</link>
             <guid isPermaLink="false">a8753830-4355-4913-b149-46fc355d22fe</guid>
             <pubDate>Sun, 17 Apr 2016 16:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Candle's Glow]]></title>
-            <description><![CDATA[<article><h1>Candle's Glow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f32022790cfa55c8527c8d8e07eb90edf942c1.png"></article>]]></description>
-            <link>https://thegrid.ai/portraits-i-love/candles-glow/index.html</link>
-            <guid isPermaLink="false">138223dd-eb33-45d8-ab74-c110bcf7af40</guid>
-            <pubDate>Sun, 17 Apr 2016 16:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dance is Art]]></title>
-            <description><![CDATA[<article><h1>Dance is Art</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9f469b954180f3f9284630ec850050054cea0e8.png"></article>]]></description>
-            <link>https://thegrid.ai/portraits-i-love/dance-is-art/index.html</link>
-            <guid isPermaLink="false">54e8aabf-9ada-42ed-9ef2-d88d6e258597</guid>
-            <pubDate>Sun, 17 Apr 2016 16:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
