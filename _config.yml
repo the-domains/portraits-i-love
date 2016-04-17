@@ -10,9 +10,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7601145
 color:
-  saturation: 0.9613916
+  saturation: 0
   brandStrength: 0.487252
   lightness: 0
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  rhythmicContrast: 0.1757573
+  rhythmicContrast: 0
+typography_spectrum: 0.7601145
 layout_spectrum: 0.1726493
 name: Portraits I Love
