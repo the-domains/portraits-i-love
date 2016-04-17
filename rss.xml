@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portraits I Love]]></title>
         <description><![CDATA[Portraits I Love]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portraits-i-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 16:33:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 16:33:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portraits-i-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dance is Art]]></title>
+            <description><![CDATA[<article><h1>Dance is Art</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9f469b954180f3f9284630ec850050054cea0e8.png"></article>]]></description>
+            <link>https://thegrid.ai/portraits-i-love/dance-is-art/index.html</link>
+            <guid isPermaLink="false">54e8aabf-9ada-42ed-9ef2-d88d6e258597</guid>
+            <pubDate>Sun, 17 Apr 2016 16:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bojana tatarska]]></title>
             <description><![CDATA[<article><h1>bojana tatarska</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0234d6ee114a04d3d1b800c8a5a638d764e1392a.png"></article>]]></description>
-            <link>undefinedbojana-tatarska/index.html</link>
+            <link>https://thegrid.ai/portraits-i-love/bojana-tatarska/index.html</link>
             <guid isPermaLink="false">714953d3-dd28-41de-b929-76eb98fd4217</guid>
             <pubDate>Sun, 17 Apr 2016 16:33:09 GMT</pubDate>
         </item>
