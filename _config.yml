@@ -1,26 +1,26 @@
-color:
-  saturation: 0.9613916
-  brandStrength: 0.487252
-  rhythmicContrast: 0.1757573
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.1310908
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1726493
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.7601145
+color:
+  saturation: 0.9613916
+  brandStrength: 0.487252
+  lightness: 0
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  rhythmicContrast: 0.1757573
+layout_spectrum: 0.1726493
 name: Portraits I Love
