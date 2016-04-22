@@ -1,3 +1,7 @@
+name: Portraits I Love
+favicon: null
+layout_spectrum: 0.1726493
+typography_spectrum: 0.7601145
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#C4C7CF'
     - '#212021'
     - '#A4ABB3'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0
-typography_spectrum: 0.7601145
-layout_spectrum: 0.1726493
-name: Portraits I Love
+purpose: []
