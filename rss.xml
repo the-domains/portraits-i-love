@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Portraits I Love]]></title>
-        <description><![CDATA[Portraits I Love]]></description>
+        <title><![CDATA[Portrait images that inspire me]]></title>
+        <description><![CDATA[Portrait images that inspire me]]></description>
         <link>https://thegrid.ai/portraits-i-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 19:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 19:56:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/portraits-i-love/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Smile]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/portraits-i-love/profile/index.html</link>
             <guid isPermaLink="false">f1b880c5-e4b4-4517-b7aa-82fd42b8c1ff</guid>
             <pubDate>Sun, 17 Apr 2016 16:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Triangle]]></title>
-            <description><![CDATA[<article><h1>Triangle</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/353c941d-6445-4ecf-be7c-becca99c757d.png"></article>]]></description>
-            <link>https://thegrid.ai/portraits-i-love/triangle/index.html</link>
-            <guid isPermaLink="false">f15bf9d4-e8f0-4b5e-815c-a5cd795109ea</guid>
-            <pubDate>Sun, 17 Apr 2016 19:37:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
