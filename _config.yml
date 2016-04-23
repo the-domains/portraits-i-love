@@ -1,41 +1,41 @@
-name: Portraits I Love
-favicon: null
-layout_spectrum: 0.48978
-typography_spectrum: 0.7601145
+title: Portrait images that inspire me
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Portrait images that inspire me
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#C4C7CF'
     - '#212021'
     - '#A4ABB3'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 1
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Portraits I Love
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7601145
+layout_spectrum: 0.48978
